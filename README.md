@@ -13,6 +13,7 @@
 - Fork this repository (or google how if you don't know how).
 - Create a *source* directory.
 - In the *source* directory, create a simple html page that emulates the Gmail Compose new email experience
+![Gmail](http://picpaste.com/pics/2XRzyIck.1424206971.png)
   - A compose button, when clicked will open a compose window
   - A compose window with 4 parts
     1. To - a simple input with placeholder text
@@ -24,11 +25,13 @@
 
 ##### Styling/CSS
 - Compose button doesn't matter, just a div or button will do
-- Make the compose button look as much like Gmail's as possible
+- Make the compose window look as much like Gmail's as possible
 
 ## Once Complete
 1. Commit and Push your code to your new repository
 2. Send us a pull request, we will review your code and get back to you
+
+
 
 
 
