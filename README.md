@@ -15,10 +15,10 @@
 ![Gmail](http://i.imgur.com/s9toufR.png)
   1. A compose button, when clicked will open a compose window
   2. A compose window with 4 parts
-    a. To - a simple input with placeholder text
-    b. Subject - an simple input with placeholder text
-    c. Body - A div with content-editable 
-    d. Send button - On click should console log the To, Subject and Email body in the console
+    1. To - a simple input with placeholder text
+    2. Subject - an simple input with placeholder text
+    3. Body - A div with content-editable 
+    4. Send button - On click should console log the To, Subject and Email body in the console
   3. The compose window should be able to be able to be minimized and closed like in Gmail
   4. A new compose window should be able to be opened, shifting over the any existing ones - No logic required for overflow
 
@@ -29,6 +29,7 @@
 ##### Approach
 - Use ReactJS (if you know it) or jQuery to construct the compose window and its behaviour
 - Structure your code and files (css,cs,html) as if this were a real project with other collaborators
+- If you're running low on time, focus on functionality first, css second.
 
 ## Once Complete
 1. Commit and Push your code to your new repository
