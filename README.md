@@ -13,7 +13,7 @@
 - Fork this repository (or google how if you don't know how).
 - Create a *source* directory.
 - In the *source* directory, create a simple html page that has a simplified version of the Gmail Compose new email experience
-![Gmail](http://picpaste.com/pics/2XRzyIck.1424206971.png =350x)
+![Gmail](http://picpaste.com/pics/2XRzyIck.1424206971.png)
   - A compose button, when clicked will open a compose window
   - A compose window with 4 parts
     1. To - a simple input with placeholder text
